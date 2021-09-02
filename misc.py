@@ -1,4 +1,4 @@
-HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
+HELP_TEXT = """__**I Can Play Music In The Voice Chat n/n ✨Bot Maintained By @StrawH4tLuffy**__
 
 **/skip** __Skip The Current Playing Music.__
 **/play** __Service_Or_Default (Services: youtube/saavn, Default: youtube) Song_Name | Reply_To_Audio__
@@ -13,6 +13,6 @@ HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
 """
 
 REPO_TEXT = (
-    "[Github](https://github.com/thehamkercat/Telegram_vc_bot)"
-    + " | [Group](t.me/TGVCSUPPORT)"
+    "[Github](https://github.com/StrawH4t/StrawH4tMusic)"
+    + " | [Group](t.me/Anime_Ocean)"
 )
