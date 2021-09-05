@@ -1,4 +1,4 @@
-# StrawH4t Music Bot
+# Siesta Music Bot
 
 Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
 
